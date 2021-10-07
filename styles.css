@@ -5,8 +5,10 @@
 }
 
 body {
-  background-color: grey;
+  /* background-color: grey; */
   background-image: url(https://www.superiorwallpapers.com/3d-wallpapers/black-and-red-3d-boxes-on-the-wall-hd-wallpaper_1920x1200.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
 }
 
 /* .flex {
